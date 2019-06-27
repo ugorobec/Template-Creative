@@ -1,0 +1,39 @@
+@font-face {
+    font-family: "myriad";
+    src: url("../fonts/MyriadPro/MyriadPro-Regular.eot"); 
+    src: url("../fonts/MyriadPro/MyriadPro-Regular.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/MyriadPro/MyriadPro-Regular.woff") format("woff"), 
+    url("../fonts/MyriadPro/MyriadPro-Regular.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "gotham";
+    src: url("../fonts/Gotham-Bold/Gotham-Bold.eot"); 
+    src: url("../fonts/Gotham-Bold/Gotham-Bold.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Gotham-Bold/Gotham-Bold.woff") format("woff"), 
+    url("../fonts/Gotham-Bold/Gotham-Bold.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: bold;   
+}
+
+@font-face {
+    font-family: "gotham-medium";
+    src: url("../fonts/Gotham-Medium/Gotham-Medium.eot"); 
+    src: url("../fonts/Gotham-Medium/Gotham-Medium.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Gotham-Medium/Gotham-Medium.woff") format("woff"), 
+    url("../fonts/Gotham-Medium/Gotham-Medium.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "gotham-book";
+    src: url("../fonts/Gotham-Book/Gotham-Book.eot"); 
+    src: url("../fonts/Gotham-Book/Gotham-Book.eot?#iefix") format("embedded-opentype"),
+    url("../fonts/Gotham-Book/Gotham-Book.woff") format("woff"), 
+    url("../fonts/Gotham-Book/Gotham-Book.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal;
+}
